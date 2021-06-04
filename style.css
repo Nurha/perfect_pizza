@@ -1,0 +1,25 @@
+body {
+    background-color: #FDFFFC;
+}
+
+.small_pizza {
+    background-color: #FDFFFC;
+    border: #011627 1px solid ;
+    margin: 1px;
+}
+
+.medium_pizza {
+    background-color: #FDFFFC;
+    border: #011627 1px solid ;
+    margin: 1px;
+}
+
+.large_pizza {
+    background-color: #FDFFFC;
+    border: #011627 1px solid ; 
+    margin: 1px;
+}
+
+.contact_section {
+    background-color: #2EC4B6;
+}
