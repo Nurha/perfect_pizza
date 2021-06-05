@@ -26,3 +26,9 @@ body {
 .contact_section {
     background-color: #2EC4B6;
 }
+
+@media (min-width: 950px){
+    .pizzas{
+        display: flex;
+    }
+}
