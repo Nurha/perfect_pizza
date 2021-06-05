@@ -29,6 +29,6 @@ body {
 
 @media (min-width: 950px){
     .pizzas{
-        display: flex;
+        display: flex;  
     }
 }
